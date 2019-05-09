@@ -6,8 +6,11 @@
 ELSE がある場合、0 の場合は ELSE～THEN 間を実行します。
 
 [ 例 ]
-IF <コマンド> THEN
-IF <コマンド> ELSE <コマンド> THEN
+1 IF . THEN
+→ 0 以外なので IF～THEN 間の . により 1 が表示されます。
+
+0 IF DROP ELSE . THEN
+→ 0 なので、ELSE～THEN 間の . により 0 が表示されます。
 
 [ 解説 ]
 
