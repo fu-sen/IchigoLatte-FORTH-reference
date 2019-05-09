@@ -1,4 +1,4 @@
-## IchigoLatte Forth レファレンス一覧
+## IchigoLatte Forth リファレンス一覧
 
 IchigoLatte Forth で使用できる命令を一覧しています。
 
