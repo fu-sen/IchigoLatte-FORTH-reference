@@ -1,6 +1,6 @@
-## IchigoLatte Forth リファレンス一覧
+## IchigoLatte FORTH リファレンス一覧
 
-IchigoLatte Forth で使用できる命令を一覧しています。
+IchigoLatte FORTH で使用できる命令を一覧しています。
 
 Download ZIP でファイル一覧をダウンロードできます。\
 GitHub・Git を使っている場合は Clone を使っても良いでしょう。
@@ -11,9 +11,9 @@ Windows ではメモ帳を使用する事が可能です。
 
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
 
-### Forth について
+### FORTH について
 
-Forth はスタックという概念を持つ言語です。
+FORTH はスタックという概念を持つ言語です。
 
 スタックは積む場合、右へ追加されていき、\
 一番右が一番最初に得られる値になります。\
