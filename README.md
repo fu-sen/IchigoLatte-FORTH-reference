@@ -9,7 +9,7 @@ RAW で参照した場合、またファイルをダウンロードした場合\
 .txt ファイルは文字コード UTF-8、改行コード CR+LF になります。\
 Windows ではメモ帳を使用する事が可能です。
 
-* イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
+* イチゴジャム レシピ (公開元) https://15jamrecipe.jimdofree.com/
 
 [IchigoLatte](http://ichigolatte.shizentai.jp/) は [株式会社ナチュラルスタイル](https://na-s.jp/) の登録商標です。
 
